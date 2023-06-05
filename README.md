@@ -35,9 +35,9 @@ Results will be generated for different combinations of MPI processes and OpenMP
 
 ## Authors
 
-** Mohammad Solki **
-** Prakash Srinivasan **
-** Ali Asgari **
+* Mohammad Solki
+* Prakash Srinivasan
+* Ali Asgari
 
 ## Acknowledgements
 
